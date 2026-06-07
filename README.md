@@ -1,3 +1,13 @@
+# Fork
+
+This is a fork of [BigDoors](https://github.com/PimvanderLoos/BigDoors) to add quick fixes, improvements, and even some new features that we want on [AlterraHQ](https://alterrahq.net). No support is given for this project, and the original author(s) are permitted to port changes back to the upstream if they wish.
+
+Additionally, our source code is primarily hosted on the [CodeGuilds Git](https://git.codeguilds.org/AlterraHQ) service. Any other copies on platforms like GitHub are mirrors. We do accept pull requests and issues to be posted on these mirrors but keep in mind that they may not be noticed straight away.
+
+Anything below this message is the original README from the upstream.
+
+---
+
 ![Static Badge](https://img.shields.io/nexus/r/nl.pim16aap2/BigDoors?color=green&label=BigDoors&logo=BigDoors&logoColor=red&server=https%3A%2F%2Feldonexus.de&style=flat-square)
 
 # BigDoors v1
